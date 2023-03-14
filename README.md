@@ -15,6 +15,10 @@ Find me around the web :
 ✉️  You can contact me at martinezf1985@gmail.com
 <br>
 💼  LinkedIn:https://www.linkedin.com/in/fernandoh-martinez/
+<br>
+🌱 Ask me about   React, Javascript, NodeJs, Express, Sequelize
+
+
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
@@ -92,7 +96,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
 
+<br>
 
-
-
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11134457341&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11134457341&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
